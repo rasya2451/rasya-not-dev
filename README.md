@@ -36,11 +36,6 @@
 <p align="center"><a href="https://github.com/nazedev"><img src="https://streak-stats.demolab.com/?user=nasedev&theme=chartreuse-dark"></a></p>
 <p align="center"><a href="https://github.com/rasya2451"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazedev&theme=chartreuse-dark&layout=compact"></a></p> 
 
-### Repo Stats 🔭
-<p align=""><a href="https://github.com/rasya2451/rasya-not-dev.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rasya&repo=readme&theme=chartreuse-dark"></a></p>
-<p align=""><a href="https://github.com/rasya2451/payment-site-marsha..git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rasya&repo=payment &theme=chartreuse-dark"></a></p>
-<p align=""><a href="https://github.com/rasya2451/web-store..git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rasya&repo=payment 2&theme=chartreuse-dark"></a></p>
-
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
